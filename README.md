@@ -1,12 +1,12 @@
 # recipe-app-api
 Recipe app api source code
-
-![alt text](https://www.catster.com/wp-content/uploads/2017/08/A-fluffy-cat-looking-funny-surprised-or-concerned.jpg "Cat")
+- Based on the Udemy course - "Build a Backend REST API with Python & Django - Advanced"
 
 ```Python
 
 def whatIsThis():
-    print("This is code from a Udemy Course)
+    print("I am working through the Udemy course - 'Build a Backend REST API with Python & Django - Advanced'")
 
-whatIsThis()
 ```
+
+![alt text](https://www.catster.com/wp-content/uploads/2017/08/A-fluffy-cat-looking-funny-surprised-or-concerned.jpg "Cat")
